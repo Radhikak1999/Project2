@@ -1,0 +1,243 @@
+#ne{
+    height: 700px;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.748),rgba(0, 0, 0, 0.266),rgba(0, 0, 0, 0.797)), url("./pic/netflix.jpg");
+    display: flex;
+    justify-content: space-around;
+}
+
+#me{
+    height: 100px;
+    color: aliceblue;
+    width: 950px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+}
+
+ .mi{
+    height: 100px;
+    width: 150px;
+    fill: red;
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+    position: relative;
+    right: 100px;
+ }   
+
+ .mii{
+   height: 40px;
+   width: 150px;
+    fill:red;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center; 
+ }
+
+#sel{
+   background-color: transparent;
+   color:white;
+   height: 30px;
+   width: 90px;
+   }
+
+ #btn{
+   border-radius: 0.4rem;
+   background-color: red;
+   margin-left: 20px;
+   width: 80px;
+   height: 30px;
+    }
+
+ #li{
+      position: absolute;
+      top: 200px; 
+   }
+
+#mm{
+   border: 1px solid red;
+   background-color: red;
+   color:white;
+   height: 50px;
+   width: 200px;
+   border-radius: 0.4rem;
+   position: relative;
+   left: 120px;
+   font-style: normal;
+   font-size: 0.5em;
+   font-weight: 400;
+   margin-left: 10px;
+   margin-top: 10px;
+   
+}
+
+#hh{
+   color: white;
+   font-size: 3rem;
+   font-weight: 900;
+   display: flex;
+   justify-content: center;
+
+}
+
+#yy{
+   font-size: 1.5rem;
+   font-weight: 400;
+   color: white;
+   display: flex;
+   justify-content: space-around;
+   
+}
+
+#ee{
+   color: white;
+   font-size: 1.25rem;
+   font-weight: 400;
+   padding-left: 8%;
+   display: flex;
+   justify-content: space-around; 
+   
+}
+
+#xy{
+   background-color: transparent;
+   color: white;
+   border: 0.1px solid white;
+   border-radius: 0.4rem;
+   height: 45px;
+   width: 350px;
+   position: relative;
+   left: 120px;
+   margin-left: 10px;
+}
+
+.cc{
+   border: 1px solid black;
+   height: 600px;
+   margin-top: 8px;
+   background-color: black;
+   }
+
+#aa{
+   border: 1px;
+   height: 200px;
+   width: 520px;
+   top: 200px;
+   left: 150px;
+   position: relative;
+}
+
+#bb{
+   border: 1px;
+   height: 400px;
+   width: 650px;
+   bottom: 180px;
+   left: 680px;
+   position: relative;
+}
+
+#dd{
+   color: white;
+   font-size: 3rem;
+   font-weight: bold;
+   display: flex;
+   justify-content: left;
+   text-align: center;
+}
+
+#ee{
+   font-size: 1.5rem;
+   font-weight: 400;
+   color: white;
+   display: inline;
+   justify-content: left;
+}
+
+#ff{
+   font-size: 1.5rem;
+   font-weight: 400;
+   color: white;
+   display: inline;
+   justify-content: left;
+} 
+
+#cc{
+    width: 90%;
+    height: 90%;
+    position: absolute;
+    top: 115%;
+    left: 51%;
+}
+
+.ab{
+   border: 1px solid black;
+   height: 600px;
+   margin-top: 8px;
+   background-color: black;
+}
+
+#bc{
+   
+   height: 400px;
+   width: 550px;
+   top: 100px;
+   left: 80px;
+   position: relative;
+}
+
+#ed{
+   border: 1px solid;
+   height: 300px;
+   width: 900px;
+   bottom: 250px;
+   left: 850px;
+   position: relative;
+}
+
+#df{
+   color: white;
+   font-size: 3rem;
+   font-weight:bold;
+   display: flex;
+   justify-content:left;
+   text-align: center;
+}
+
+#fg{
+   font-size: 1.5rem;
+   font-weight: 400;
+   color: white;
+   display: inline;
+   justify-content: left;
+}
+
+#gh{
+   font-size: 1.5rem;
+   font-weight: 400;
+   color: white;
+   display: inline;
+   justify-content: left;
+} 
+
+#hi{
+   font-size: 1.5rem;
+   font-weight: 400;
+   color: white;
+   display: inline;
+   justify-content: left;
+}
+.kk{
+   position: relative;
+   right: 88px;
+}
+.t{
+   text-align: right;
+}
+.img{
+   position: relative;
+   right: -20px;
+   top: 2px;
+}
+.sig{
+   color: azure;
+}
