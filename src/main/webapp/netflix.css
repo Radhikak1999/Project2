@@ -1,6 +1,6 @@
 #ne{
     height: 700px;
-    background-image:linear-gradient(rgba(0, 0, 0, 0.748),rgba(0, 0, 0, 0.266),rgba(0, 0, 0, 0.797)), url("./pic/netflix.jpg");
+    background-image:linear-gradient(rgba(0, 0, 0, 0.748),rgba(0, 0, 0, 0.266),rgba(0, 0, 0, 0.797)), url("./netflix.jpg");
     display: flex;
     justify-content: space-around;
 }
